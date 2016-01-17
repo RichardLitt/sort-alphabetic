@@ -1,0 +1,48 @@
+{
+  "name": "sort-alphabetic",
+  "version": "0.0.0",
+  "description": "Sort an array alphabetically, ignoring case",
+  "license": "MIT",
+  "repository": "RichardLitt/sort-alphabetic",
+  "author": {
+    "name": "Richard Littauer",
+    "email": "richard.littauer@gmail.com",
+    "url": "burntfen.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "standard && ava"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "sort",
+    "alphabetic",
+    "alphabetically",
+    "array",
+    "alphabetize",
+    "alphabetise",
+    "alphabet"
+  ],
+  "dependencies": {
+    "is-array": "^1.0.1",
+    "meow": "^3.7.0"
+  },
+  "devDependencies": {
+    "standard": "^5.4.1",
+    "ava": "^0.10.0"
+  },
+  "standard": {
+    "ignore": [
+      "test.js"
+    ]
+  }
+}
