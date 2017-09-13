@@ -1,5 +1,7 @@
 # sort-alphabetic [![Build Status](https://travis-ci.org/RichardLitt/sort-alphabetic.svg?branch=master)](https://travis-ci.org/RichardLitt/sort-alphabetic)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/sort-alphabetic.svg)](https://greenkeeper.io/)
+
 > Sort an array alphabetically, ignoring case
 
 
