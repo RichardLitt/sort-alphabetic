@@ -37,8 +37,8 @@
     "meow": "^3.7.0"
   },
   "devDependencies": {
-    "standard": "^5.4.1",
-    "ava": "^0.10.0"
+    "standard": "^10.0.3",
+    "ava": "^0.22.0"
   },
   "standard": {
     "ignore": [
