@@ -16,10 +16,10 @@ var cli = meow([`
     [ 'ONE', 'one', 'TWO' ]
     $ sort-alphabetic cONE bone aTwo --start=1
     [ 'cONE', 'bone', 'aTWO' ]
-`, {
+`], {
   alias: {
     s: 'start'
   }
-}])
+})
 
 console.log(sortAlphabetic(cli.input, cli.flags))
