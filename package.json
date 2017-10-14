@@ -1,6 +1,6 @@
 {
   "name": "sort-alphabetic",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Sort an array alphabetically, ignoring case",
   "license": "MIT",
   "repository": "RichardLitt/sort-alphabetic",
